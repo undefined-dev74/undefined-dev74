@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Jha</h1>
 <h3 align="center">A React enthusist</h3>
-<img align="right" width=400 src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="programer-coding" /> </p>
-<p align="left"> <img  widht=200 height=200 src="https://avatars.githubusercontent.com/u/45736218?v=4&label=Profile%20views&color=0e75b6&style=flat" alt="undefined-dev74" /> </p>
+<img align="center" width=100% src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="programer-coding" /> </p>
+<!-- <p align="left"> <img  widht=200 height=200 src="https://avatars.githubusercontent.com/u/45736218?v=4&label=Profile%20views&color=0e75b6&style=flat" alt="undefined-dev74" /> </p> -->
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=undefined-dev74" alt="undefined-dev74" /></a> </p>
